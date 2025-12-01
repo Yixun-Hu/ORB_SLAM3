@@ -1,6 +1,4 @@
 # Build use the /usr camke because the version of conda cmake is too new (4.)
-cd ~/codespace/ORB_SLAM3
-
 # 第三方库 DBoW2
 cd Thirdparty/DBoW2
 rm -rf build
